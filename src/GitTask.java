@@ -5,6 +5,7 @@ public class GitTask {
         int b=5;
         int c=45;
         int f;
+        double mainNumber;
         f=a+b+c;
         if(a==b)
         {
@@ -15,6 +16,7 @@ public class GitTask {
             System.out.println("hi i am Artem!");
         }
         System.out.println("Введите число");
+        mainNumber=2.3;
 
     }
 }
