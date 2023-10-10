@@ -12,7 +12,7 @@ public class GitTask {
         }
         else
         {
-
+            System.out.println("hi i am Artem!");
         }
 
     }
