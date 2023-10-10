@@ -14,6 +14,7 @@ public class GitTask {
         {
             System.out.println("hi i am Artem!");
         }
+        System.out.println("Введите число");
 
     }
 }
