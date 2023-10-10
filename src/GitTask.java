@@ -8,7 +8,7 @@ public class GitTask {
         f=a+b+c;
         if(a==b)
         {
-
+            System.out.println("i love TeachMeSkills");
         }
 
     }
