@@ -6,6 +6,10 @@ public class GitTask {
         int c=45;
         int f;
         f=a+b+c;
+        if(a==b)
+        {
+
+        }
 
     }
 }
