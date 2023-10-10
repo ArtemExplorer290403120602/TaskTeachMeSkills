@@ -17,6 +17,7 @@ public class GitTask {
         }
         System.out.println("Введите число");
         mainNumber=2.3;
+        System.out.println("Программа закончилась!");
 
     }
 }
